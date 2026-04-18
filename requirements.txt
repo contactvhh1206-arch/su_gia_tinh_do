@@ -3,3 +3,4 @@ crewai_tools
 langchain-openai
 streamlit
 requests
+python-dotenv
